@@ -23,7 +23,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&amp;display=swap" rel="stylesheet">
 
     <!-- Line Icons CSS -->
-    <link rel="stylesheet" href="https://cdn.lineicons.com/4.0/lineicons.css">
+    <link rel="stylesheet" href="https://cdn.lineicons.com/2.0/LineIcons.css">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{asset('website')}}/css/bootstrap.min.css">

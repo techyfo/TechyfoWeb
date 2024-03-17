@@ -6,7 +6,7 @@
                 <!-- navbar -->
                 <nav class="navbar navbar-expand-lg">
                     <a class="navbar-brand" href="{{route('home')}}">
-                        <img src="{{asset('website')}}/images/logo.svg" alt="Logo">
+                        <img src="{{asset('website')}}/images/logo.png" alt="Techyfo">
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTwo" aria-controls="navbarTwo" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="toggler-icon"></span>

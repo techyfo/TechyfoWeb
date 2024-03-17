@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-4 col-md-12">
                 <div class="footer-logo text-left">
-                    <a href="index.html"><img src="{{asset('website')}}/images/logo.svg" alt="Logo"></a>
+                    <a href="{{route('home')}}"><img src="{{asset('website')}}/images/logo.png" alt="Techyfo"></a>
                 </div>
 
                 <div class="footer-support text-left mt-4">

@@ -6,8 +6,10 @@
                 <div class="col-lg-5">
                     <div class="wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
                         <h1 class="title">Business is Now <span>Digital</span></h1>
-                        <p class="text">We blend insights and strategy to create digital products for forward-thinking organisations.</p>
-                        <div class="mt-4"><a class="main-btn" href="#"><i class="lni lni-inbox"></i> Try it free</a>  <a class="main-btn white" href="#"><i class="lni lni-layout"></i> Get a demo</a></div>
+                        <p class="text">With innovative tech ideas, digital developments, excellent clients services we are providing services all over the country.</p>
+                        <div class="mt-4">
+                            <a class="main-btn page-scroll" href="#services"><i class="lni lni-inbox"></i> Our Services</a>
+                            <a class="main-btn white" href="#"><i class="lni lni-phone"></i> Contact US</a></div>
                     </div>
                 </div>
                 <div class="col-lg-7">

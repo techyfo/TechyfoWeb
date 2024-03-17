@@ -17,10 +17,10 @@
                         <div class="services-icon color01">
                             <i class="lni lni-brush"></i>
                         </div>
-                        <h4 class="services-title">Unique<br />UI/UX Design</h4>
+                        <h4 class="services-title">Software<br />Development</h4>
                     </div>
                     <div class="services-content">
-                        <p class="text">Short description for the ones who look for something new. Short description for the ones who look for something new.</p>
+                        <p class="text">Customized software solutions tailored to meet specific needs, developed with expertise and innovation.</p>
                         <a class="services-btn" href="#">Learn More</a>
                     </div>
                 </div>
@@ -31,10 +31,10 @@
                         <div class="services-icon color02">
                             <i class="lni lni-layout"></i>
                         </div>
-                        <h4 class="services-title">Theme<br /> Development</h4>
+                        <h4 class="services-title">Web<br /> Development</h4>
                     </div>
                     <div class="services-content">
-                        <p class="text">Short description for the ones who look for something new. Short description for the ones who look for something new.</p>
+                        <p class="text">Designing, creating, and maintaining websites to optimize online presence and user experience for businesses.</p>
                         <a class="services-btn" href="#">Learn More</a>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                         <h4 class="services-title">Digital<br />Marketing</h4>
                     </div>
                     <div class="services-content">
-                        <p class="text">Short description for the ones who look for something new. Short description for the ones who look for something new.</p>
+                        <p class="text">Steady growth with innovative digital marketing strategies. Dedicated to crafting impactful brands through effective methods.</p>
                         <a class="services-btn" href="#">Learn More</a>
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                         <h4 class="services-title">Website<br />Design</h4>
                     </div>
                     <div class="services-content">
-                        <p class="text">Short description for the ones who look for something new. Short description for the ones who look for something new.</p>
+                        <p class="text">Creative, responsive, user-friendly, innovative, customizable, sleek, intuitive, modern, efficient, dynamic, visually appealing, professional, accessible, engaging, adaptive.</p>
                         <a class="services-btn" href="#">Learn More</a>
                     </div>
                 </div>
@@ -73,10 +73,10 @@
                         <div class="services-icon color05">
                             <i class="lni lni-layers"></i>
                         </div>
-                        <h4 class="services-title">Responsive<br />Design</h4>
+                        <h4 class="services-title">e-Commerce<br />Solution</h4>
                     </div>
                     <div class="services-content">
-                        <p class="text">Short description for the ones who look for something new. Short description for the ones who look for something new.</p>
+                        <p class="text">Transforming online retail with comprehensive e-commerce solutions tailored for seamless customer experiences and optimal growth.</p>
                         <a class="services-btn" href="#">Learn More</a>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                         <h4 class="services-title">Quick<br />Support</h4>
                     </div>
                     <div class="services-content">
-                        <p class="text">Short description for the ones who look for something new. Short description for the ones who look for something new.</p>
+                        <p class="text">Efficient and responsive support for swift resolutions and uninterrupted operations, ensuring client satisfaction and business continuity.</p>
                         <a class="services-btn" href="#">Learn More</a>
                     </div>
                 </div>
@@ -111,13 +111,13 @@
         <div class="row align-items-center">
             <div class="col-md-6 col-sm-12">
                 <div class="about-content wow fadeInLeftBig" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeftBig;">
-                    <h4>Modern design with Essential Features</h4>
-                    <p class="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
+                    <h4>Welcome to Techyfo: Making Technology Accessible for All</h4>
+                    <p class="text">At Techyfo, we believe that technology should be inclusive and accessible to everyone, regardless of their background or expertise. Our mission is to break down barriers and empower individuals to harness the power of technology for their personal and professional endeavors.</p>
                     <div class="about-list">
                         <ul>
-                            <li><i class="lni lni-arrow-right-circle"></i> Carefully crafted components</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Amazing page examples</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Super friendly support team</li>
+                            <li><i class="lni lni-arrow-right-circle"></i> Simplified Solutions</li>
+                            <li><i class="lni lni-arrow-right-circle"></i> Diverse Expertise</li>
+                            <li><i class="lni lni-arrow-right-circle"></i> Interactive Learning</li>
                             <li><i class="lni lni-arrow-right-circle"></i> Awesome Support</li>
                         </ul>
                     </div>
@@ -141,14 +141,16 @@
             <div class="col-md-6 col-sm-12">
                 <div class="about-content wow fadeInLeftBig" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeftBig;">
 
-                    <h4>Modern design with Essential Features</h4>
-                    <p class="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
+                    <h4>Digital Marketing Solutions Tailored to Your Needs</h4>
+                    <p class="text">In today's competitive landscape, establishing a strong online presence is crucial for businesses of all sizes. At Techyfo, we offer comprehensive digital marketing solutions designed to help you reach your target audience, drive engagement, and achieve your business objectives. Here's how our digital marketing services can benefit you:</p>
                     <div class="about-list">
                         <ul>
-                            <li><i class="lni lni-arrow-right-circle"></i> Carefully crafted components</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Amazing page examples</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Super friendly support team</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Awesome Support</li>
+                            <li><i class="lni lni-arrow-right-circle"></i> Strategic Planning</li>
+                            <li><i class="lni lni-arrow-right-circle"></i> Search Engine Optimization (SEO)</li>
+                            <li><i class="lni lni-arrow-right-circle"></i> Content Marketing</li>
+                            <li><i class="lni lni-arrow-right-circle"></i> Social Media Management</li>
+                            <li><i class="lni lni-arrow-right-circle"></i> Paid Advertising</li>
+                            <li><i class="lni lni-arrow-right-circle"></i> Analytics and Reporting</li>
                         </ul>
                     </div>
                     <div class="mt-4 text-left">
@@ -162,83 +164,83 @@
 </section>
 <!-- About Ends -->
 <!-- Prinicng Start -->
-<section id="pricing" class="pricing section bg-light">
-    <div class="container">
-        <div class="title-block mx-auto">
-            <div class="section_title mb-4 text-center">
-                <p class="section_subtitle mx-auto">Pricing Plan</p>
-                <h2>Our Pricing</h2>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="single-pricing mt-4 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1.5s">
-                    <div class="pricing-header text-center">
-                        <i class="lni lni-car"></i>
-                        <h5 class="sub-title">Starter</h5>
-                        <span class="price">$199</span>
-                        <p class="year">per year</p>
-                    </div>
-                    <div class="pricing-list mt-4">
-                        <ul>
-                            <li><i class="lni lni-arrow-right-circle"></i> Carefully crafted components</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Amazing page examples</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Super friendly support team</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Awesome Support</li>
-                        </ul>
-                    </div>
-                    <div class="mt-4 text-center">
-                        <a class="white-btn" href="#"><i class="lni lni-arrow-right-circle"></i> Get Started</a>
-                    </div>
+{{--<section id="pricing" class="pricing section bg-light">--}}
+{{--    <div class="container">--}}
+{{--        <div class="title-block mx-auto">--}}
+{{--            <div class="section_title mb-4 text-center">--}}
+{{--                <p class="section_subtitle mx-auto">Pricing Plan</p>--}}
+{{--                <h2>Our Pricing</h2>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--        <div class="row justify-content-center">--}}
+{{--            <div class="col-lg-4 col-md-6 col-sm-12">--}}
+{{--                <div class="single-pricing mt-4 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1.5s">--}}
+{{--                    <div class="pricing-header text-center">--}}
+{{--                        <i class="lni lni-car"></i>--}}
+{{--                        <h5 class="sub-title">Starter</h5>--}}
+{{--                        <span class="price">$199</span>--}}
+{{--                        <p class="year">per year</p>--}}
+{{--                    </div>--}}
+{{--                    <div class="pricing-list mt-4">--}}
+{{--                        <ul>--}}
+{{--                            <li><i class="lni lni-arrow-right-circle"></i> Carefully crafted components</li>--}}
+{{--                            <li><i class="lni lni-arrow-right-circle"></i> Amazing page examples</li>--}}
+{{--                            <li><i class="lni lni-arrow-right-circle"></i> Super friendly support team</li>--}}
+{{--                            <li><i class="lni lni-arrow-right-circle"></i> Awesome Support</li>--}}
+{{--                        </ul>--}}
+{{--                    </div>--}}
+{{--                    <div class="mt-4 text-center">--}}
+{{--                        <a class="white-btn" href="#"><i class="lni lni-arrow-right-circle"></i> Get Started</a>--}}
+{{--                    </div>--}}
 
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="single-pricing pro mt-4 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1.5s">
-                    <div class="pricing-header text-center">
-                        <i class="lni lni-ship"></i>
-                        <h5 class="sub-title">Proffesional</h5>
-                        <span class="price">$399</span>
-                        <p class="year">per year</p>
-                    </div>
-                    <div class="pricing-list mt-4">
-                        <ul>
-                            <li><i class="lni lni-arrow-right-circle"></i> Carefully crafted components</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Amazing page examples</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Super friendly support team</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Awesome Support</li>
-                        </ul>
-                    </div>
-                    <div class="mt-4 text-center">
-                        <a class="white-btn" href="#"><i class="lni lni-arrow-right-circle"></i> Get Started</a>
-                    </div>
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col-lg-4 col-md-6 col-sm-12">--}}
+{{--                <div class="single-pricing pro mt-4 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1.5s">--}}
+{{--                    <div class="pricing-header text-center">--}}
+{{--                        <i class="lni lni-ship"></i>--}}
+{{--                        <h5 class="sub-title">Proffesional</h5>--}}
+{{--                        <span class="price">$399</span>--}}
+{{--                        <p class="year">per year</p>--}}
+{{--                    </div>--}}
+{{--                    <div class="pricing-list mt-4">--}}
+{{--                        <ul>--}}
+{{--                            <li><i class="lni lni-arrow-right-circle"></i> Carefully crafted components</li>--}}
+{{--                            <li><i class="lni lni-arrow-right-circle"></i> Amazing page examples</li>--}}
+{{--                            <li><i class="lni lni-arrow-right-circle"></i> Super friendly support team</li>--}}
+{{--                            <li><i class="lni lni-arrow-right-circle"></i> Awesome Support</li>--}}
+{{--                        </ul>--}}
+{{--                    </div>--}}
+{{--                    <div class="mt-4 text-center">--}}
+{{--                        <a class="white-btn" href="#"><i class="lni lni-arrow-right-circle"></i> Get Started</a>--}}
+{{--                    </div>--}}
 
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="single-pricing mt-4 wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1.5s">
-                    <div class="pricing-header text-center">
-                        <i class="lni lni-plane"></i>
-                        <h5 class="sub-title">Business</h5>
-                        <span class="price">$799</span>
-                        <p class="year">per year</p>
-                    </div>
-                    <div class="pricing-list mt-4">
-                        <ul>
-                            <li><i class="lni lni-arrow-right-circle"></i> Carefully crafted components</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Amazing page examples</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Super friendly support team</li>
-                            <li><i class="lni lni-arrow-right-circle"></i> Awesome Support</li>
-                        </ul>
-                    </div>
-                    <div class="mt-4 text-center">
-                        <a class="white-btn" href="#"><i class="lni lni-arrow-right-circle"></i> Get Started</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col-lg-4 col-md-6 col-sm-12">--}}
+{{--                <div class="single-pricing mt-4 wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1.5s">--}}
+{{--                    <div class="pricing-header text-center">--}}
+{{--                        <i class="lni lni-plane"></i>--}}
+{{--                        <h5 class="sub-title">Business</h5>--}}
+{{--                        <span class="price">$799</span>--}}
+{{--                        <p class="year">per year</p>--}}
+{{--                    </div>--}}
+{{--                    <div class="pricing-list mt-4">--}}
+{{--                        <ul>--}}
+{{--                            <li><i class="lni lni-arrow-right-circle"></i> Carefully crafted components</li>--}}
+{{--                            <li><i class="lni lni-arrow-right-circle"></i> Amazing page examples</li>--}}
+{{--                            <li><i class="lni lni-arrow-right-circle"></i> Super friendly support team</li>--}}
+{{--                            <li><i class="lni lni-arrow-right-circle"></i> Awesome Support</li>--}}
+{{--                        </ul>--}}
+{{--                    </div>--}}
+{{--                    <div class="mt-4 text-center">--}}
+{{--                        <a class="white-btn" href="#"><i class="lni lni-arrow-right-circle"></i> Get Started</a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--</section>--}}
 <!-- Prinicng Ends -->
 <!-- Team Start -->
 <section id="team" class="section">
@@ -251,10 +253,10 @@
         </div>
 
         <div class="row justify-content-center">
-            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="col-lg-3 col-md-4 col-sm-12">
                 <div class="single-team text-center mt-4 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
                     <div class="team-image">
-                        <img src="{{asset('website')}}/images/team-2.png" alt="Team">
+                        <img src="{{asset('website')}}/images/nurnobi.jpg" alt="Team">
                         <div class="social">
                             <ul>
                                 <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
@@ -265,15 +267,15 @@
                         </div>
                     </div>
                     <div class="team-content">
-                        <h5 class="holder-name"><a href="#">Elon Musk</a></h5>
+                        <h5 class="holder-name"><a href="#">Md Nurnobi Hosen</a></h5>
                         <p class="text">Sr. Software Engineer</p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="single-team text-center mt-4 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
+            <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="single-team text-center mt-4 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
                     <div class="team-image">
-                        <img src="{{asset('website')}}/images/team-1.png" alt="Team">
+                        <img src="{{asset('website')}}/images/team.png" alt="Team">
                         <div class="social">
                             <ul>
                                 <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
@@ -284,15 +286,15 @@
                         </div>
                     </div>
                     <div class="team-content">
-                        <h5 class="holder-name"><a href="#">Isabela Moreira</a></h5>
-                        <p class="text">Founder and CEO</p>
+                        <h5 class="holder-name"><a href="#">Md Sajedul Islam</a></h5>
+                        <p class="text">Sr. Digital Marketer</p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="single-team text-center mt-4 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.8s; animation-name: fadeIn;">
+            <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="single-team text-center mt-4 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
                     <div class="team-image">
-                        <img src="{{asset('website')}}/images/team-3.png" alt="Team">
+                        <img src="{{asset('website')}}/images/team.png" alt="Team">
                         <div class="social">
                             <ul>
                                 <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
@@ -303,8 +305,27 @@
                         </div>
                     </div>
                     <div class="team-content">
-                        <h5 class="holder-name"><a href="#">Fiona Smith</a></h5>
-                        <p class="text">Business Development Manager</p>
+                        <h5 class="holder-name"><a href="#">Shihab</a></h5>
+                        <p class="text">Graphics Designer</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-12">
+                <div class="single-team text-center mt-4 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
+                    <div class="team-image">
+                        <img src="{{asset('website')}}/images/team.png" alt="Team">
+                        <div class="social">
+                            <ul>
+                                <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
+                                <li><a href="#"><i class="lni lni-twitter-filled"></i></a></li>
+                                <li><a href="#"><i class="lni lni-instagram-filled"></i></a></li>
+                                <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="team-content">
+                        <h5 class="holder-name"><a href="#">Samsul Islam</a></h5>
+                        <p class="text">Executive</p>
                     </div>
                 </div>
             </div>
@@ -542,7 +563,7 @@
                             <i class="lni lni-map-marker"></i>
                         </div>
                         <div class="contact-info-content media-body">
-                            <p class="text"> Elizabeth St, Melbourne<br>1202 Australia.</p>
+                            <p class="text"> House-119-120, Road-2, Block-CHA, <br>Mirpur-2, Dhaka</p>
                         </div>
                     </div>
                 </div>
@@ -552,8 +573,8 @@
                             <i class="lni lni-envelope"></i>
                         </div>
                         <div class="contact-info-content media-body">
-                            <p class="text">info@example.com</p>
-                            <p class="text">info@example.com</p>
+                            <p class="text">info@techyfo.com</p>
+                            <p class="text">support@techyfo.com</p>
                         </div>
                     </div>
                 </div>
@@ -563,8 +584,8 @@
                             <i class="lni lni-phone"></i>
                         </div>
                         <div class="contact-info-content media-body">
-                            <p class="text">+333 789-321-654</p>
-                            <p class="text">+333 985-458-609</p>
+                            <p class="text">+880 1770-634816</p>
+                            <p class="text">+880 1770-634816-609</p>
                         </div>
                     </div>
                 </div>
@@ -613,7 +634,8 @@
             </div>
             <div class="col-lg-6">
                 <div class="mt-4 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1000ms">
-                    <iframe class="map" src="{{asset('website')}}/https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29615915.60163266!2d115.17781997658622!3d-25.026468737800016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2b2bfd076787c5df%3A0x538267a1955b1352!2sAustralia!5e0!3m2!1sen!2sin!4v1587464040031!5m2!1sen!2sin" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+                    <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d228.14850365250697!2d90.3539961240994!3d23.80522298907458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sHouse-119-120%2C%20Road-2%2C%20Block-CHA%2C%20Mirpur-2%2C%20Dhaka!5e0!3m2!1sen!2sbd!4v1710674123326!5m2!1sen!2sbd" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
             </div>
         </div>
