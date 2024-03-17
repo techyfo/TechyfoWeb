@@ -70,7 +70,7 @@ return array(
     'Mockery\\' => array($vendorDir . '/mockery/mockery/library/Mockery'),
     'Masterminds\\' => array($vendorDir . '/masterminds/html5/src'),
     'Livewire\\' => array($vendorDir . '/livewire/livewire/src'),
-    'League\\Uri\\' => array($vendorDir . '/league/uri-interfaces', $vendorDir . '/league/uri'),
+    'League\\Uri\\' => array($vendorDir . '/league/uri', $vendorDir . '/league/uri-interfaces'),
     'League\\MimeTypeDetection\\' => array($vendorDir . '/league/mime-type-detection/src'),
     'League\\Flysystem\\Local\\' => array($vendorDir . '/league/flysystem-local'),
     'League\\Flysystem\\' => array($vendorDir . '/league/flysystem/src'),
@@ -119,6 +119,7 @@ return array(
     'Brick\\Math\\' => array($vendorDir . '/brick/math/src'),
     'BladeUI\\Icons\\' => array($vendorDir . '/blade-ui-kit/blade-icons/src'),
     'BladeUI\\Heroicons\\' => array($vendorDir . '/blade-ui-kit/blade-heroicons/src'),
+    'Artesaos\\SEOTools\\' => array($vendorDir . '/artesaos/seotools/src/SEOTools'),
     'App\\' => array($baseDir . '/app', $vendorDir . '/laravel/pint/app'),
     'AnourValar\\EloquentSerialize\\' => array($vendorDir . '/anourvalar/eloquent-serialize/src'),
 );
