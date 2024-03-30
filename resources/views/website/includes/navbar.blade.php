@@ -21,17 +21,16 @@
                             <li class="nav-item"><a href="#">About Us</a></li>
                             <li class="nav-item"><a href="#">portfolio</a></li>
                             <li class="nav-item"><a href="#">Contact Us</a></li>
-{{--                            <li class="nav-item dropdown">--}}
-{{--                                <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">--}}
-{{--                                    Pages.--}}
-{{--                                </a>--}}
-{{--                                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">--}}
-{{--                                    <a class="dropdown-item" href="404.html">404</a>--}}
-{{--                                    <a class="dropdown-item" href="blog.html">Blog</a>--}}
-{{--                                    <a class="dropdown-item" href="login.html">Login</a>--}}
-{{--                                    <a class="dropdown-item" href="register.html">Register</a>--}}
-{{--                                </div>--}}
-{{--                            </li>--}}
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Services
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="404.html">404</a>
+                                    <a class="dropdown-item" href="blog.html">Blog</a>
+                                    <a class="dropdown-item" href="login.html">Login</a>
+                                </div>
+                            </li>
                         </ul>
                     </div>
 

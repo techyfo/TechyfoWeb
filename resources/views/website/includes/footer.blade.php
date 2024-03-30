@@ -69,7 +69,7 @@
         </div>
     </div>
     <div class="copyright text-center mt-5">
-        <p class="text">2024 © Techyfo. Design by SOFT-ITBD</p>
+        <p class="text">2024 © Techyfo.</p>
     </div>
     <div id="particles-2"></div>
 </footer>
