@@ -1,0 +1,1 @@
+[04-Jul-2024 11:07:11 UTC] PHP Fatal error:  Trait "Filament\Forms\Components\Concerns\HasPivotData" not found in /home/techyfo/public_html/vendor/codewithdennis/filament-select-tree/src/SelectTree.php on line 24

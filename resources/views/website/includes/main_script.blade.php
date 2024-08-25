@@ -57,10 +57,10 @@
                 var scroll = $(window).scrollTop();
                 if (scroll < 20) {
                     $(".navbar-area").removeClass("sticky");
-                    $(".navbar .navbar-brand img").attr("src", "{{asset('website')}}/images/logo.png");
+                    $(".navbar .navbar-brand img").attr("src", "{{asset('uploads/'.getSetting('site_logo'))}}");
                 } else {
                     $(".navbar-area").addClass("sticky");
-                    $(".navbar .navbar-brand img").attr("src", "{{asset('website')}}/images/logo-2.png");
+                    $(".navbar .navbar-brand img").attr("src", "{{asset('uploads/'.getSetting('site_logo_dark'))}}");
                 }
             });
 

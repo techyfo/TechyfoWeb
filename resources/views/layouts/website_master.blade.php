@@ -8,10 +8,11 @@
 
     <!-- Title -->
     {!! SEO::generate() !!}
-    <meta name="keywords" content="Techyfo, Software, ecommerce, business, digital marketing, seo, digital agency, creative agency, mobile app, marketing, it solution">
-    <meta name="author" content="Techyfo">
+    @yield('meta_seo')
+    <meta name="keywords" content="{{getSetting('meta_keywords')}}">
+    <meta name="author" content="{{getSetting('meta_author')}}">
     <!-- Favicon Icon -->
-    <link rel=" shortcut icon" href="{{asset('website')}}/images/favicon.png" type="image/png">
+    <link rel=" shortcut icon" href="{{asset('uploads/'.getSetting('site_favicon'))}}" type="image/png">
 
     <!-- Animate CSS -->
     <link rel="stylesheet" href="{{asset('website')}}/css/animate.css">
@@ -24,16 +25,17 @@
 
     <!-- Line Icons CSS -->
     <link rel="stylesheet" href="https://cdn.lineicons.com/2.0/LineIcons.css">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{asset('website')}}/css/bootstrap.min.css">
 
     <!-- Style CSS -->
     <link rel="stylesheet" href="{{asset('website')}}/css/style.css">
-
+    {!! getSetting('site_header_code') !!}
 </head>
 
 <body>
+{!! getSetting('site_body_code') !!}
 <!-- Preloader Start -->
 <div class="spinner-wrapper">
     <div class="spinner">
@@ -72,7 +74,12 @@
 
 <!-- Main js -->
 @include('website.includes.main_script')
+<script src="{{asset('website')}}/js/isotope.pkgd.min.js"></script>
+<script src="{{asset('website')}}/js/jquery.magnific-popup.min.js"></script>
 
+@yield('js')
+
+{!! getSetting('site_footer_code') !!}
 </body>
 
 </html>
